@@ -61,7 +61,7 @@ p{
     text-decoration: none;
 }
 ul.spisok{
-    list-style-image:url(/images/list_arrow.gif);
+    list-style-image:url(images/list_arrow.gif);
     list-style-position:inside;
     padding: 0;
     margin: 0;
@@ -81,7 +81,7 @@ ul.spisok li a:hover{
     width: 950px;
     height: 51px;
     color: #E459EF;
-    background:url(/images/footer.gif) repeat-x;
+    background:url(images/footer.gif) repeat-x;
     padding-top: 30px;
     text-align: center;
     clear: both;
@@ -109,7 +109,7 @@ ul.spisok li a:hover{
 #header{
     width: 950px;
     height: 175px;
-    background:url(/images/top_bg.jpg) no-repeat;
+    background:url(images/top_bg.jpg) no-repeat;
     margin: 0;
     padding: 0;
 }
@@ -129,7 +129,7 @@ ul.spisok li a:hover{
     height: auto;
     clear: both;
     padding-top: 25px;
-    background:url(/images/center_bg.gif) no-repeat top center;
+    background:url(images/center_bg.gif) no-repeat top center;
 }
 .left_content{
     width: 400px;
